@@ -1,5 +1,5 @@
 # 💫 About Me:
-                             𝐇𝐢 👋, 𝐈'𝐦 𝐋𝐢𝐤𝐡𝐢𝐧 𝐊 𝐍<br>                             
+                             𝐇𝐢 👋, 𝐈'𝐦 𝐋𝐢𝐤𝐡𝐢𝐧 𝐊 𝐍                             
 <br>🤝 I’m looking for help with
 <br>🌱 I’m currently learning
 <br>💬 Ask me about
