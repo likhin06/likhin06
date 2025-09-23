@@ -2,9 +2,9 @@
                              𝐇𝐢 👋, 𝐈'𝐦 𝐋𝐢𝐤𝐡𝐢𝐧 𝐊 𝐍                             
 
 <br>🌱 I’m currently learning
-<br>📄 [View My Resume (GitHub Preview)](https://github.com/likhin06/likhin06/blob/main/resume.pdf) 
-<br>💬 Ask me about
+<br>💬 Ask me about Front Web Development
 <br>⚡ Fun fact
+<br>📫 Reach out to me at **likhinkaspadi@gmail.com**
 
 
 ## 🌐 Socials:
